@@ -20,5 +20,7 @@ public class Switch {
             break;
             default: System.out.println("the is not a day bro!!!");
         }
+
+
     }
 }
